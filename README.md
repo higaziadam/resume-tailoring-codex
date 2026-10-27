@@ -1,6 +1,6 @@
-# TailorJob
+# resume-tailoring-codex
 
-TailorJob is a lightweight resume and application workflow for Codex. It uses project instructions and connected plugins to assess a job posting, prepare a tailored copy of a resume in Google Docs, update an existing Google Sheets application tracker, and draft a cover letter in Google Drive. It is inspired by the workflow in [AI Job Search](https://github.com/ai-job-search-dev/ai-job-search).
+`resume-tailoring-codex` is a lightweight resume and application workflow for Codex. It uses project instructions and connected plugins to assess a job posting, prepare a tailored copy of a resume in Google Docs, update an existing Google Sheets application tracker, and draft a cover letter in Google Drive. It is inspired by the workflow in [AI Job Search](https://github.com/ai-job-search-dev/ai-job-search).
 
 This repository is an instruction-driven project, not a standalone application. It has no web interface, server, package installation, or LaTeX workflow.
 
